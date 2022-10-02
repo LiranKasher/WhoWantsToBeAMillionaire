@@ -1,0 +1,168 @@
+{
+  "questions": [
+    "Who was the first president of the United States of America?",
+    "Which car is the world's best selling car?",
+    "On which year did World War I begin?",
+    "How many Pyramids were built in Giza?",
+    "In norse mythology, What is the name of the paradise warriors go to after death?",
+    "In Greek mythology, What is the name of the home of the Greek Gods?",
+    "In Roman mythology, Romulus and Remus were raised by which animal?",
+    "What was the name of the Egyptian God of the Sun?",
+    "Which sport is featured in the video game FIFA?",
+    "Which country won the very first FIFA World Cup in 1930?",
+	"Where did backgammon originate?",
+	"Which classic video game requires you to eat all the dots, throughout a maze?",
+	"What is Python?",
+	"What year was the very first model of the iPhone released?",
+	"What part of the atom has no electric charge?",
+	"What is the symbol for potassium?",
+	"Meteorology is the study of which of the following?",
+	"Which animal can be seen on the Porsche logo?",
+	"What does BMW stand for (in English)?",
+	"Which country invented the drinking of tea?"
+  ],
+  "answers": [
+    [
+      "Theodore Roosevelt",
+      "George Washington",
+      "Abraham Lincoln",
+      "Thomas Jefferson"
+    ],
+    [
+      "Ford F Series",
+      "Suzuki Swift",
+      "Toyota Corolla",
+      "Honda Civic"
+    ],
+    [
+      "1912",
+      "1919",
+      "1918",
+      "1914"
+    ],
+    [
+      "2 Pyramids",
+      "3 Pyramids",
+      "4 Pyramids",
+      "5 Pyramids"
+    ],
+    [
+      "Heaven",
+      "Eden",
+      "Elysium",
+      "Valhalla"
+    ],
+    [
+      "Olympus",
+      "Kyllini",
+      "Parthenion",
+      "Parnassus"
+    ],
+    [
+      "Lion",
+      "Wolf",
+      "Leopard",
+      "Goat"
+    ],
+    [
+      "Anubis",
+      "Osiris",
+      "Set",
+      "Ra"
+    ],
+    [
+      "Football",
+      "Basketball",
+      "Tennis",
+      "Golf"
+    ],
+    [
+      "Brazil",
+      "U.S.A.",
+      "Japan",
+      "Uruguay"
+    ],
+	[
+	  "China",
+	  "Persia",
+	  "Greece",
+	  "Egypt"
+	],
+	[
+	  "Metroid",
+	  "Donkey Kong",
+	  "Super-Mario",
+	  "Pac-Man"
+	],
+	[
+	  "Programming Language",
+	  "Operating System",
+	  "Database",
+	  "Computer Program"
+	],
+	[
+	  "2012",
+	  "2009",
+	  "2007",
+	  "2010"
+	],
+	[
+	  "Electron",
+	  "Proton",
+	  "Neutron",
+	  "Bombatron"
+	],
+	[
+	  "L",
+	  "P",
+	  "K",
+	  "B"
+	],
+	[
+	  "Meteors",
+	  "The Weather",
+	  "The Metric System",
+	  "Rocks"
+	],
+	[
+	  "Horse",
+	  "Lion",
+	  "Snake",
+	  "Bull"
+	],
+	[
+	  "Bavarian Milk Wagon",
+	  "Best Man Wins",
+	  "Bad Man Wagon",
+	  "Bavarian Motor Works"
+	],
+	[
+	  "China",
+	  "Japan",
+	  "India",
+	  "England"
+	]
+  ],
+  "correct_answer": [
+    "George Washington",
+    "Toyota Corolla",
+    "1914",
+    "3 Pyramids",
+    "Valhalla",
+    "Olympus",
+    "Wolf",
+    "Ra",
+    "Football",
+    "Uruguay",
+	"Persia",
+	"Pac-Man",
+	"Programming Language",
+	"2007",
+	"Neutron",
+	"K",
+	"The Weather",
+	"Horse",
+	"Bavarian Motor Works",
+	"China"
+  ]
+}
